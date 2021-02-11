@@ -13,6 +13,8 @@
 		8EFA1CF525885FA90051109D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EFA1CF325885FA90051109D /* Main.storyboard */; };
 		8EFA1CF725885FAA0051109D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EFA1CF625885FAA0051109D /* Assets.xcassets */; };
 		8EFA1CFA25885FAA0051109D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EFA1CF825885FAA0051109D /* LaunchScreen.storyboard */; };
+		8EFA1D03258862C90051109D /* DogCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EFA1D02258862C90051109D /* DogCollectionViewCell.swift */; };
+		8EFA1D0725886A0A0051109D /* DogViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EFA1D0625886A0A0051109D /* DogViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		8EFA1CF625885FAA0051109D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8EFA1CF925885FAA0051109D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8EFA1CFB25885FAA0051109D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EFA1D02258862C90051109D /* DogCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogCollectionViewCell.swift; sourceTree = "<group>"; };
+		8EFA1D0625886A0A0051109D /* DogViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				8EFA1CED25885FA90051109D /* AppDelegate.swift */,
 				8EFA1CEF25885FA90051109D /* SceneDelegate.swift */,
 				8EFA1CF125885FA90051109D /* ViewController.swift */,
+				8EFA1D0625886A0A0051109D /* DogViewController.swift */,
+				8EFA1D02258862C90051109D /* DogCollectionViewCell.swift */,
 				8EFA1CF325885FA90051109D /* Main.storyboard */,
 				8EFA1CF625885FAA0051109D /* Assets.xcassets */,
 				8EFA1CF825885FAA0051109D /* LaunchScreen.storyboard */,
@@ -140,6 +146,8 @@
 				8EFA1CF225885FA90051109D /* ViewController.swift in Sources */,
 				8EFA1CEE25885FA90051109D /* AppDelegate.swift in Sources */,
 				8EFA1CF025885FA90051109D /* SceneDelegate.swift in Sources */,
+				8EFA1D0725886A0A0051109D /* DogViewController.swift in Sources */,
+				8EFA1D03258862C90051109D /* DogCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
